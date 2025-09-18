@@ -1,8 +1,0 @@
-{
-"name": "sina-vercel-bot",
-"version": "1.0.0",
-"private": true,
-"dependencies": {
-"telegraf": "^4.16.3"
-}
-}
